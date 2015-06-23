@@ -1,14 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	check status?
+	check status
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-	yuou can group up in staging
+	yuou can group changes in staging that you’re not sure you want to yet commit.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-	when testing out or keeping separate from the master
+	when testing out or keeping separate from the master. e.g. an experiment that may not end up being used.
 
 How do the diagrams help you visualize the branch structure?
 
